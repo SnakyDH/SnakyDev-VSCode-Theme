@@ -1,0 +1,21 @@
+{
+  "name": "snakydev-theme",
+  "displayName": "SnakyDev",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SnakyDev Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SnakyDev Theme-color-theme.json"
+      }
+    ]
+  }
+}
